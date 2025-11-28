@@ -11,8 +11,8 @@
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+"
-      "DLC Required",
+      "Vanilla+",
+      "DLC Required"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -21,19 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp",
       "readme": "https://github.com/crispyfires/Borealis/blob/main/README.md",
-      "download": "[REPLACE WITH ACTUAL CDN FILE",
+      "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_6e34e46b-5de4-42bc-abbf-39b8e27df64a",
       "machineURL": "Borealis",
       "discordURL": "https://discord.com/invite/r4YnyqGBBA"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "agEwk8zlafg=",
+      "Size": 117293221,
+      "NumberOfArchives": 513,
+      "SizeOfArchives": 39538252343,
+      "NumberOfInstalledFiles":33311,
+      "SizeOfInstalledFiles": 49965154643,
+      "TotalSize": 89503406986
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 ]
