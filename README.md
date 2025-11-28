@@ -2,7 +2,7 @@
 <p align="center">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
 
 ## Preamble
-<p>Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched.</p>
+<p>Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched. This modlist is perfect for a first playthrough, or to build your own modlist on top of.</p>
 
 ## Features
 
@@ -37,3 +37,8 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 - Disable OneDrive and any other programs that hook into user file areas
 - Do a full reinstall of Skyrim anywhere other than Program Files, but **DO NOT** verify the files in Steam
 - Turn off [automated updates for Skyrim in Steam](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable)
+- Run your-newly reinstalled Skyrim once through Steam and download all the AE DLC when it prompts you; do not tab-out during this process
+### Post-installation
+- Enter the folder where you installed the list and run ModOrganizer2.exe
+- Ensure that "Borealis" is selected on the upper-right-hand corner of Mod Organizer 2 and press "Start" to load the game; to play this modlist, you must always launch SSE through MO2
+- Enjoy the game!
