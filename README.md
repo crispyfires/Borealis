@@ -15,7 +15,7 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 - i5-9400/Ryzen 5 2600x
 - GTX 1070/RX Vega 56
 - 16GB DDR4 RAM
-- SATA SDD
+- SATA SSD
 ## Pre-installation
 - Download and install the [Visual C++ x64 Redistributables](https://aka.ms/vc14/vc_redist.x64.exe)
 - Download and install the [.NET 9.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
