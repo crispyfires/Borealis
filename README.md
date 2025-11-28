@@ -1,4 +1,6 @@
-Welcome to the Borealis Wabbajack modlist!
+![Banner](https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp)
+<p style="text-align: center;">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
+
 # Installation
 ## Requirements
 - The English version of Skyrim Special Edition on Steam
@@ -12,7 +14,8 @@ These requirements assume that you aren't using (CS Upscaling)[https://www.nexus
 ##### 1080p
 - i5-9400/Ryzen 5 2600x
 - GTX 1070/RX Vega 56
-- DDR4 16GB RAM
+- 16GB DDR4 RAM
 - SATA SDD
 ## Pre-installation
 - Download and install the (Visual C++ x64 Redistributables)[https://aka.ms/vs/17/release/vc_redist.x64.exe]
+- 
