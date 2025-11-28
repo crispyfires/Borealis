@@ -1,5 +1,5 @@
 ![Banner](https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp)
-<p style="text-align: center;">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
+<p align="center">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
 
 # Installation
 ## Requirements
