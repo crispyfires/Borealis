@@ -38,6 +38,11 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 - Do a full reinstall of Skyrim anywhere other than Program Files, but **DO NOT** verify the files in Steam
 - Turn off [automated updates for Skyrim in Steam](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable)
 - Run your-newly reinstalled Skyrim once through Steam and download all the AE DLC when it prompts you; do not tab-out during this process
+### Wabbajack
+- Download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and extract it somewhere that's not a Windows-protected directory (i.e. Downloads, Documents, or Program Files)
+- Run Wabbajack.exe
+- Go to browse lists and select "Install from disk"
+- Select the .wabbajack from the Nexus page
 ### Post-installation
 - Enter the folder where you installed the list and run ModOrganizer2.exe
 - Ensure that "Borealis" is selected on the upper-right-hand corner of Mod Organizer 2 and press "Start" to load the game; to play this modlist, you must always launch SSE through MO2
