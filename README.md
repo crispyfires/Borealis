@@ -24,7 +24,7 @@
 - 74 GB of disk space (49 GB install, 25 GB downloads)
 ##### Minimum Specs
 These requirements assume that you aren't using [CS Upscaling](https://www.nexusmods.com/skyrimspecialedition/mods/156952), which comes with the list, but is disabled by default. You probably could go lower if you enable it, or if you don't mind capping to 30 FPS instead of the 60 FPS default. These are speculative, as I don't have the setups listed to test.
-###### 1080p
+**1080p**
 - i5-9400/Ryzen 5 2600x
 - GTX 1070/RX Vega 56
 - 16GB DDR4 RAM
