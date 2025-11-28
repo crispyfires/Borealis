@@ -3,7 +3,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Borealis",
     "description": "A lightweight vanilla+ visuals-only modlist",
-    "author": "Marrow",
+    "author": "huhuuu",
     "maintainers": [
       "github/crispyfires"
     ],
@@ -23,7 +23,7 @@
       "readme": "https://github.com/crispyfires/Borealis/blob/main/README.md",
       "download": "[REPLACE WITH ACTUAL CDN FILE",
       "machineURL": "Borealis",
-      "discordURL": "https://discord.com/invite/r4YnyqGBBA
+      "discordURL": "https://discord.com/invite/r4YnyqGBBA"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
