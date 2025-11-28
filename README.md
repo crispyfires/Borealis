@@ -1,8 +1,7 @@
 ![Banner](https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp)
 <p align="center">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
 # Preamble
-
-Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched.
+<p>Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched.</p>
 
 # Features
 
