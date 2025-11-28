@@ -3,6 +3,7 @@
 # Preamble
 
 Borealis is a performant, vanilla+ visual overhaul for Skyrim Special Edition. It features enhanced NPCs, lighting, effects, landscapes, and flora while staying true to the vanilla aethestics. Upscaled vanilla textures form the backbone of this modlist, with choice texture and model replacements as necessary. The modlist features quality-of-life gameplay enhancements, such as diagonal movement and Fallout 4-style quickloot menus, but the vanilla gameplay otherwise remains untouched.
+
 # Features
 
 - The full [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) suite with [Vanilla CS](https://www.nexusmods.com/skyrimspecialedition/mods/165393) for an atmospheric true-to-vanilla overhaul
