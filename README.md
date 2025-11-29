@@ -1,4 +1,10 @@
 ![Banner](https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp)
+<div align="center">
+    <a href="https://www.nexusmods.com/skyrimspecialedition/mods/165653">Nexus</a> |
+    <a href="https://loadorderlibrary.com/lists/borealis-2">Load Order Library</a> |
+    <a href="https://discord.com/invite/r4YnyqGBBA">Discord</a>
+</div>
+
 <p align="center">Welcome to the Borealis Wabbajack modlist! Please read this README in its entirety before playing the list.</p>
 
 ## Preamble
