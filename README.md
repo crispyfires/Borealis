@@ -51,5 +51,5 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 - Select the .wabbajack from the Nexus page
 ### Post-installation
 - Enter the folder where you installed the list and run ModOrganizer2.exe
-- Ensure that "Borealis" is selected on the upper-right-hand corner of Mod Organizer 2 and press "Start" to load the game; to play this modlist, you must always launch SSE through MO2
+- Ensure that "Borealis" is selected on the upper-right-hand corner of Mod Organizer 2 and press "Run" to load the game; to play this modlist, you must always launch SSE through MO2
 - Enjoy the game!
