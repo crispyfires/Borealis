@@ -19,7 +19,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/crispyfires/Borealis/blob/main/Borealis_logo.webp",
+      "image": "https://raw.githubusercontent.com/crispyfires/Borealis/refs/heads/main/Borealis_logo.webp",
       "readme": "https://github.com/crispyfires/Borealis/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_6d8e8403-34d9-4fde-90f5-d6cf31d9d308",
       "machineURL": "Borealis",
