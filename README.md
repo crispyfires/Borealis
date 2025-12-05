@@ -47,8 +47,10 @@ These requirements assume that you aren't using [CS Upscaling](https://www.nexus
 ### Wabbajack
 - Download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and extract it somewhere that's not a Windows-protected directory (i.e. Downloads, Documents, or Program Files)
 - Run Wabbajack.exe
-- Go to browse lists and select "Install from disk"
-- Select the .wabbajack from the Nexus page
+- Tick "show non featured Lists"
+- Search for Borealis and click on it
+- Press install
+
 ### Post-installation
 - Enter the folder where you installed the list and run ModOrganizer2.exe
 - Ensure that "Borealis" is selected on the upper-right-hand corner of Mod Organizer 2 and press "Run" to load the game; to play this modlist, you must always launch SSE through MO2
