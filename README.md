@@ -27,7 +27,7 @@
 - A Nexus Mods account (Nexus Premium is highly recommended)
 #### System Requirements
 - A SSD, greatly improved loading times than an HDD
-- 74 GB of disk space (49 GB install, 25 GB downloads)
+- 124 GB of disk space (69 GB install, 55 GB downloads)
 ##### Minimum Specs
 These requirements assume that you aren't using [CS Upscaling](https://www.nexusmods.com/skyrimspecialedition/mods/156952), which comes with the list, but is disabled by default. You probably could go lower if you enable it, or if you don't mind capping to 30 FPS instead of the 60 FPS default. These are speculative, as I don't have the setups listed to test.
 
