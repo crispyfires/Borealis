@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Borealis",
-    "description": "A lightweight vanilla+ visuals-only modlist",
+    "description": "A visuals-focused vanilla+ modlist. Faithful to the game we all fell in love with in 2011, but with the visuals expanded and improved upon with modern technologies.",
     "author": "huhuuu",
     "maintainers": [
       "github/crispyfires"
@@ -21,20 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/crispyfires/Borealis/refs/heads/main/Borealis_logo.webp",
       "readme": "https://github.com/crispyfires/Borealis/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_6d8e8403-34d9-4fde-90f5-d6cf31d9d308",
+      "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_6bbcd46b-7521-4828-91b4-98d511d79705",
       "machineURL": "Borealis",
       "discordURL": "https://discord.com/invite/r4YnyqGBBA"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Y+dsVifJhjI=",
-      "Size": 117006830,
-      "NumberOfArchives": 514,
-      "SizeOfArchives": 39538254165,
-      "NumberOfInstalledFiles":33313,
-      "SizeOfInstalledFiles": 49961821180,
-      "TotalSize": 89500075345
+      "Hash": "ztpt2SNMhL8=",
+      "Size": 309315174,
+      "NumberOfArchives": 791,
+      "SizeOfArchives": 58674460003,
+      "NumberOfInstalledFiles":97074,
+      "SizeOfInstalledFiles": 73618903281,
+      "TotalSize": 132293363284
     },
-    "version": "1.0.2"
+    "version": "2.0.1"
   }
 ]
