@@ -1,3 +1,119 @@
+2.1.0:
+
+Added:
+- Wrye Bash (I don't use it, but if anyone wants it)
+- NifSkope
+- Beard Mask Fix - Beards Use Slot 44 SKSE Plugin
+- aMidianBorn - PBR and Complex Material
+- Frankly HD - PBR Remaster
+- Skyrim Cell load Freeze fix NG
+- Sloppy Vanilla Landscapes - Parallax and PBR
+- PBRed Vanilla Clothes - New made from scratch
+- Ancient AF Windhelm - Windhelm Retextured
+- Skyland Riften
+- Praedy's College of Winterhold - SE
+- Praedy's Castle Volkihar - SE
+- Skyland - Solitude
+- Auto Resolution
+- Stealth Detection Fixes
+- Stretched Snow Begone Definitive Edition - Stretched Snow On Walls and Buildings Fix
+- Unique Falmer Blood Elixir - Base Object Swapper
+- Icy Dungeons Pack
+- Icy Landmarks - Base Object Swapper
+- Icy Stalhrim Source - Base Object Swapper
+- JS Dragon Claws AE (Anniversary Edition)
+- HD Reworked Vale Sabre Cat
+- HD Reworked Vale Deer
+- HD Reworked Wolves
+- HD Reworked Dogs
+- HD Reworked Trolls
+- HD Reworked Mammoths 4K
+- HD Reworked Bears 4K
+- HD Reworked Horses
+- Highlandcow HD by Pfuscher
+- Superior Chaurus - 4k Retexture
+- GOAT HD by Pfuscher
+- Superior Mudcrab - 4k Retexture
+- Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
+- Horker by Pfuscher
+- SABRECAT
+- MM - REAL ELKS
+- HD Skeever
+- HD Reworked Pelts
+- Photoreal Foxes 2K HD Retexture
+- Creation Club Alternative Armors - Complex Material and PBR
+- Creation Club Spell Knight Armor - Complex Material and PBR
+- JS Shrines of the Divines SE
+- Iconic Statues
+- Detailed Rugs
+- Complex Silverware - PBR and Complex Material
+- Unreal 4K-8K Mammoth Skeleton ReTexture
+- Weathered Apiary Texture - 8K - 4K - 2K
+- Temples of the Ancients (2K - 4K)
+
+Removed:
+- Ancient Nord Armors and Weapons Retexture SE
+- Bonemold Armors and Weapons Retexture SE
+- Chitin Armors Retexture SE
+- Common Clothing Retexture SE
+- Daedric Armors and Weapons Retexture SE
+- Dark Brotherhood Armors Retexture SE
+- Dawnguard Armors and Weapons Retexture SE
+- Divine Crusader Retexture SE
+- Dragon Armors and Weapons Retexture SE
+- Dragon Priests Retexture SE
+- Dwemer Armors and Weapons Retexture SE
+- Ebony Armors and Weapons Retexture SE
+- Elven Armors and Weapons Retexture SE
+- Falmer Armors and Weapons Retexture SE
+- Forsworn Armors and Weapons Retexture SE
+- Ghosts of the Tribunal Retexture SE
+- Glass Armors and Weapons Retexture SE
+- Guards and Stormcloaks Armors Retexture SE
+- Imperial Armors and Weapons Retexture SE
+- Iron Armors and Weapons Retexture SE
+- Leather Armors Retexture SE
+- Nightingale Armor and Weapons Retexture SE
+- Orcish Armors and Weapons Retexture SE
+- Robes Retexture SE
+- Silver Armor and Weapons Retexture SE
+- Spell Knight Armors Retexture SE
+- Stalhrim Armors and Weapons Retexture SE
+- Stalhrim Refrozen
+- Steel Armors and Weapons Retexture SE
+- Thieves Guild Armors Retexture SE
+- Unique Armors and Weapons Retexture SE
+- Unique Old Gods Armor Survival Mode Keywords
+- Vampire Armors and Weapons Retexture SE
+- Vigil Enforcer Retexture SE
+- Wolf Armors and Weapons Retexture SE
+- Enhanced Vanilla Landscapes 
+- Skyrim Remastered - Winterhold
+- Skyrim Remastered - Castle Volkihar and Clutter
+- Skyrim Remastered - Fort Dawnguard
+- Bellyaches Animal and Creature Pack Revamp
+
+Updated:
+- Light Placer
+- Dynamic String Distributor (DSD)
+- PGPatcher (aka ParallaxGen)
+- Skyland Happy Little Trees Bark
+- Lock Bashing
+- Stormcloaks Fight With Thalmor
+- CS Light
+- True Light
+
+Changes:
+- DynDOLOD now uses medium mesh rules with some tweaks, so performance should be better
+- Fixed snow on trees not matching with the snow on the ground
+- Fixed stretched snow textures
+- The male version of the Shrouded Cowl now has a mask, like the female version
+- Dungeons in the northern regions are now appropriately icy
+- Animals should look a lot better, redid visuals for them
+- Armours, clothing, weapons, landscapes, and gold/silverware now use PBR 
+- Game will now auto-change resolution if your monitor's resolution changes
+- Better retextures for various places
+
 2.0.2:
 Changes:
 - Fixed mod ordering in MO2
