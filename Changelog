@@ -1,3 +1,7 @@
+2.1.1:
+Changes:
+Quick recompile to fix a Synthesis version mismatch preventing the list from being installed.
+
 2.1.0:
 
 Added:
