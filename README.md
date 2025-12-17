@@ -15,11 +15,11 @@
 - The full [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) suite with [Vanilla CS](https://www.nexusmods.com/skyrimspecialedition/mods/165393) for an atmospheric true-to-vanilla overhaul
 - [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557), [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443), [True Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488), and [Dynamic Interior Ambient Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/149920) for more realistic light
 - [Vanilla Remastered - The New Normal Edition](https://www.nexusmods.com/skyrimspecialedition/mods/153879) for reworked and upscaled vanilla textures
-- [Enhanced Vanilla Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/144135) for reworked landscapes
+- [Sloppy Vanilla Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/143767) for reworked landscapes
 - [Cathedral 3D Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/80687) for enhanced vanilla folliage
 - [Fabled Forests](https://www.nexusmods.com/skyrimspecialedition/mods/94462) for a vanilla-style tree overhaul
 - [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979), [Faithful Faces](https://www.nexusmods.com/skyrimspecialedition/mods/114342), and Simply Skin ([Male](https://www.nexusmods.com/skyrimspecialedition/mods/107637)/[Female](https://www.nexusmods.com/skyrimspecialedition/mods/98131)) for for enhanced NPCs that stay true to their vanilla designs
-- [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) for reactive, realistic water
+- [Simplicity of Sea](https://www.nexusmods.com/skyrimspecialedition/mods/56520) and [Davo's tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/148761) for reactive, realistic water
 ## Installation
 ### Requirements
 - The English version of Skyrim Special Edition on Steam
