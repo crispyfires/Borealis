@@ -1,3 +1,85 @@
+2.2.0:
+
+Added:
+- Remove Small Rocks
+- Remove Small Ants
+- No Dead Twig Branches - Tweak for Happy Little Trees
+- Skyland Bits and Bobs - A Clutter Overhaul
+- Imperial Castles of Skyrim - Fort Battlements v2
+- Forts of the Old Empire (1K - 4K)
+- Stacks of Septims - 3d Coin Piles
+- Weapons and Armors Remastered - PBR and Complex Materials
+- Vine Maple Redone
+- ElSopa - Training Dummies Redone
+- Icy Mesh Remaster - Ice Glaciers - LOD - other fixes
+- Simplicity of Sea - Water Mod with ENB and Community Shaders Displacement Textures
+- Simplicity of Sea - Water Color and Transparency Tweaks
+- Natural Waterfalls
+- CS Particle Patch
+- Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'')
+- Optimized Meshes - Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)
+- Mihail's Chickens - Cleaned and Optimized Textures
+- Exist's Caves - PBR Retexture
+- Acoustic Space Improvement Fixes (Corrected Reverb - Ambience - Interiors - SkyPatcher)
+- Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
+- Immersive Sounds - Compendium
+- Audio Overhaul for Skyrim SE
+- Reverb Interior Sounds Expansion (SRD - Rain Thunder Ambience - Fixes)
+- Beating Daedra Sound Mod (Plus Animated Heart Mesh - Particle Light - CS ENB)
+- Unofficial High Definition Audio Project
+- Better Argonian Horns
+- The Northerner Diaries - Immersive Edition (music by Jeremy Soule)
+- Still - Skyrim Inspired Music
+- Hun Lovaas - Skyrim Fan-Made combat music
+- Melodies of Civilization - Skyrim Fan-Made Music
+- Around the Fire - Skyrim Fan-Made Music
+- BA Bard Songs
+- Dawnguard Music Overhaul - Skyrim Fan-made Music
+- Chapter II - Jeremy Soule Inspired Music
+- Yet Another Music Merge
+- Footprints
+- SPID for Footprints
+- SPID for Footprints fix
+- Footprints - Alternative Design
+- Realistic PBR Footprints
+- ElSopa - Creep Cluster SE
+- Ash Creep Cluster SE
+- High Poly Trama Roots
+- Rule 11 NoDelete Automation
+- Wabbajack NoDelete Automatic Indexer plugin for MO2
+
+Removed:
+- SMIM Barrels Retexture
+- chair vanilla style - immersion
+- 4K SMIM Furniture Chest
+- 4K SMIM Furniture Improvement
+- Skyrim Remastered - Metal Cages and SMIM Imperial Jails
+- Static Mesh Improvement Mod - SMIM (Upscaled) (from Vanilla Remastered (Patches))
+- Weathered Apiary Texture - 8K - 4K - 2K
+- FYX - SMIM Barrels - Smooth and New optionnal Metal and Wood Texture
+- Water for ENB
+- CC's HQ Caves
+- CC's HQ Carts
+- Improved Mesh Vanilla Handcart Replacement (broken collision)
+
+Updated:
+- Thieves Guild Holdup (Thief Road Encounter) Improvements
+- Dynamic String Distributor (DSD)
+
+Changes:
+- Added new vanilla-like music to accompany the vanilla music (not replace it) for the Extended Profile
+- Higher quality music and voices, courtesy of Unofficial High Definition Audio Project
+- NPCs and the player character will now make footprints on sand and snow
+- Packed various mods into BSAs
+- Removed ugly small rocks dotting the landscape
+- Removed ugly dead 2D branches from trees
+- Remove ugly ants from tree stumps
+- Imperial forts now look like proper forts and aren't in a sorry state of decay
+- Found some good replacers for some ugly plants
+- Did another DynDOLOD tweak to reduce VRAM usage
+- Removed Water for ENB because even the vanilla coloured version was causing CTDs on ElderTeej and I don't want to deal with that here
+- Added some MO2 plugins to make modifying the list easier
+
 2.1.1:
 Changes:
 Quick recompile to fix a Synthesis version mismatch preventing the list from being installed.
