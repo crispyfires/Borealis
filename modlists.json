@@ -21,20 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/crispyfires/Borealis/refs/heads/main/Borealis_logo.webp",
       "readme": "https://github.com/crispyfires/Borealis/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_fa55638a-023a-4294-8001-774ccf99f501",
+      "download": "https://authored-files.wabbajack.org/Borealis.wabbajack_f5a2f159-adc0-47bd-a27b-71e212163468",
       "machineURL": "Borealis",
       "discordURL": "https://discord.com/invite/r4YnyqGBBA"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ivBu0bOJP0c=",
-      "Size": 816693471,
-      "NumberOfArchives": 863,
-      "SizeOfArchives": 62804195049,
-      "NumberOfInstalledFiles":68959,
-      "SizeOfInstalledFiles": 83893045791,
-      "TotalSize": 146697240840
+      "Hash": "uwIhAwZHH0c=",
+      "Size": 814490060,
+      "NumberOfArchives": 867,
+      "SizeOfArchives": 62761632891,
+      "NumberOfInstalledFiles": 76290,
+      "SizeOfInstalledFiles": 83789729185,
+      "TotalSize": 146551362076
     },
-    "version": "2.2.1"
+    "version": "2.2.2"
   }
 ]
