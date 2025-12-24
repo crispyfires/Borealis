@@ -1,3 +1,46 @@
+2.2.2:
+Added:
+- Azurite Weathers and Seasons
+- Azurite III CS
+- Azurite Weathers - MCM and Settings Loader
+- Realistic Azurite Weathers - RAW
+- Misc. College of Winterhold Tweaks
+- Misc. College of Winterhold Tweaks - Arniel's Appeals Letters Fix
+
+Removed:
+- Vanilla CS
+- No Dead Twig Branches - Tweak for Happy Little Trees (was causing missing LOD models)
+
+Updated:
+- Thieves Guild Holdup (Thief Road Encounter) Improvements
+- No Grass In Objects
+- Torch Mechanics Fixed
+- Assorted Behavior Fixes
+- Ambient Templates for Lighting Mods
+- True Light
+
+Changes:
+- Better performance for LOD, regenned without HD Tree LOD
+
+2.2.1:
+Added:
+- Assorted Behavior Fixes
+- Dual Wield Parrying SKSE
+- Dual Wield Parrying SKSE - Mouse Buttons Fix
+
+Removed:
+- Archery Locational Damage
+
+Updated:
+- Vanilla CS
+- No Grass In Objects
+- Call of Valor Tweaks
+
+Changes:
+- Archery Locational Damage apparently has a bad conflict with Constellations that causes CTDs with bows, so removed it in favour of Locational Damage AE's archery feature
+- You can now dual wield parry, have it set to the middle mouse button by default (you can change it in Dual Wield Parrying SKSE's ini)
+- Fixed broken LOD models on trees 
+
 2.2.0:
 
 Added:
