@@ -1,3 +1,66 @@
+2.2.3:
+Added:
+- Rally's Water Foam
+- Landscape Fixes For Grass Mods
+- Improved Loading Screen Colors
+- Animated Forge Water
+- Praedy's Night Sky AIO - SE
+- HORNCANDLES
+- Skyking Unique Signs
+- Skyking Signs
+- Window Shadows Ultimate
+- A Nirnroot
+- Hired Thugs Fixed SSE
+- Thugs not Assassins
+- Butterflies Unchained
+- Hunters Not Bandits
+- Green Thumb Fix
+- Argonian Creation Extended
+- K.C.C.E Khajiit Character Creation Extended
+- Firmament - Replace Survival Perks
+- CC Wild Horses - Nordic Horse Names
+- Faultier's PBR Armors and Clothes WIP
+- Window Shadows Ultimate
+- Simplicity of Splatter - High-Res Blood Textures
+- Classes Lite - Assigned Starting Skills
+
+Removed:
+- Water Effects Brightness and Reflection Fix
+- aMidianBorn - PBR and Complex Material
+- Paradigm - A Quick Start Overhaul
+- Fires Hurt RE
+- Fire Hurts NG Updated
+
+Updated:
+- powerofthree's Papyrus Extender
+- SkyPatcher
+- Perk Entry Point Extender
+- Actor Value Generator
+- Pandora Behaviour Engine Plus
+- PGPatcher (aka ParallaxGen)
+- Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+- Assorted mesh fixes
+- Assorted Behavior Fixes
+- Embers XD
+- Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper
+- Weapons and Armors Remastered - PBR and Complex Materials
+- Azurite III CS
+- Ambient Templates for Lighting Mods
+- True Light
+- Torch Mechanics Fixed
+- Lock Bashing
+- Thieves Guild Holdup (Thief Road Encounter) Improvements
+- SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)
+- lilebonymace's patches and xEdit scripts
+- DynDOLOD Resources SE 3
+- Survival Mode Improved - SKSE
+
+Changes:
+- Fixed a bunch of landscape issues
+- Hand-corrected snow and ash shader colour to match the landscape snow and ash
+- Switched Extended alternate start to Optional Quick Start + Classes Lite for classes
+- Fixed an error with Bethini
+
 2.2.2:
 Added:
 - Azurite Weathers and Seasons
