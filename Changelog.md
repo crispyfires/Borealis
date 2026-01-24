@@ -1,4 +1,5 @@
 2.2.3:
+
 Added:
 - Rally's Water Foam
 - Landscape Fixes For Grass Mods
@@ -62,6 +63,7 @@ Changes:
 - Fixed an error with Bethini
 
 2.2.2:
+
 Added:
 - Azurite Weathers and Seasons
 - Azurite III CS
@@ -86,6 +88,7 @@ Changes:
 - Better performance for LOD, regenned without HD Tree LOD
 
 2.2.1:
+
 Added:
 - Assorted Behavior Fixes
 - Dual Wield Parrying SKSE
@@ -187,6 +190,7 @@ Changes:
 - Added some MO2 plugins to make modifying the list easier
 
 2.1.1:
+
 Changes:
 Quick recompile to fix a Synthesis version mismatch preventing the list from being installed.
 
