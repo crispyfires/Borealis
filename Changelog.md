@@ -1,3 +1,7 @@
+2.2.4:
+
+Quick recompile to fix file download error
+
 2.2.3:
 
 Added:
